@@ -13,7 +13,6 @@
                         <table id="borrowed-table" class="min-w-full divide-y divide-gray-200 mb-8">
                             <thead>
                                 <tr>
-                                    wew
                                     <th>Code</th>
                                     <th>Date</th>
                                     <th>Borrower</th>
